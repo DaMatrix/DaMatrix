@@ -1,15 +1,12 @@
 ## Active Projects
 - [FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo)
-  - **In progress:**
+  - **On hold:**
     - Compatibility rendering mode
-  - **Planned:**
     - Rough generators for more world types
     - Handle non-solid blocks correctly
     - Deferred+persistent tile update queue
 - [BuildTheEarth/terra++](https://github.com/BuildTheEarth/terraplusplus)
   - **In progress:**
-    - Multiresolution support for scalar datasets
-  - **On hold:**
     - Precompute OpenStreetMap data in GeoJSON format
 
 ## On Hold

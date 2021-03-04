@@ -6,9 +6,6 @@
     - Rough generators for more world types
     - Handle non-solid blocks correctly
     - Deferred+persistent tile update queue
-- [BuildTheEarth/terra++](https://github.com/BuildTheEarth/terraplusplus)
-  - **Waiting for program to finish:**
-    - Precompute OpenStreetMap data in GeoJSON format
 
 ## On Hold
 - [MCWorldLib](https://github.com/PorkStudios/MCWorldLib): make API completely version-independent

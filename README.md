@@ -2,6 +2,7 @@
 - [FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo)
   - **In progress:**
     - Compatibility rendering mode
+    - Support for Optifine shaders
   - **On hold:**
     - Rough generators for more world types
     - Handle non-solid blocks correctly

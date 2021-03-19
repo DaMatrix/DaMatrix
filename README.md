@@ -1,12 +1,12 @@
 ## Active Projects
 - [FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo)
   - **In progress:**
-    - Compatibility rendering mode
-    - Support for Optifine shaders
+    - Deferred+persistent tile update queue
   - **On hold:**
     - Rough generators for more world types
     - Handle non-solid blocks correctly
-    - Deferred+persistent tile update queue
+    - Compatibility rendering mode
+    - Support for Optifine shaders
 
 ## On Hold
 - [MCWorldLib](https://github.com/PorkStudios/MCWorldLib): make API completely version-independent

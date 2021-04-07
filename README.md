@@ -20,3 +20,6 @@
   - `:encoding` - revamped config system
   - `:graphics` - native image encoding+decoding
   - `:primitive` - sorted and multidimensional collections
+
+![stats](https://github-readme-stats.vercel.app/api?username=DaMatrix&show_icons=true&theme=dark&hide_border=true&hide_rank=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaMatrix&layout=compact&theme=dark&hide_border=true)

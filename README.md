@@ -7,6 +7,11 @@
     - Handle non-solid blocks correctly
     - Compatibility rendering mode
     - Support for Optifine shaders
+- [BuildTheEarth/Terra++](https://github.com/BuildTheEarth/terraplusplus)
+  - **In progress:**
+    - Generate high-resolution global elevation datasets
+  - **On hold:**
+    - Make `BVH<>` support arbitrary bounding polygons
 
 ## On Hold
 - [MCWorldLib](https://github.com/PorkStudios/MCWorldLib): make API completely version-independent

@@ -1,3 +1,9 @@
+[![Discord](https://img.shields.io/discord/428813657816956929?color=7289DA&label=discord)](https://discord.gg/FrBHHCk)
+![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m787908862-2276b40426acf2ff58677e3f)
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m787908862-2276b40426acf2ff58677e3f)
+[![patreon badge](https://img.shields.io/badge/dynamic/json?color=e64413&label=patreon&query=data.attributes.patron_count&suffix=%20patrons&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F727078)](https://www.patreon.com/DaPorkchop_)
+![Keybase BTC](https://img.shields.io/keybase/btc/DaPorkchop_)
+
 ## Active Projects
 - [FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo)
   - **In progress:**

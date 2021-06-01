@@ -7,8 +7,10 @@
 ## Active Projects
 - [FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo)
   - **In progress:**
-    - Deferred+persistent tile update queue
+    - Fix transition holes on `voxel` mode
+    - Improved mesh scaling
   - **On hold:**
+    - Populators in rough generators
     - Rough generators for more world types
     - Handle non-solid blocks correctly
     - Compatibility rendering mode

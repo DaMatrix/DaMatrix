@@ -4,21 +4,26 @@
 [![patreon badge](https://img.shields.io/badge/dynamic/json?color=e64413&label=patreon&query=data.attributes.patron_count&suffix=%20patrons&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F727078)](https://www.patreon.com/DaPorkchop_)
 ![Keybase BTC](https://img.shields.io/keybase/btc/DaPorkchop_)
 
-## Active Projects
+## In progress
 - [FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo)
+  - **Testing:**
+      - Fix transition holes on `voxel` mode
   - **In progress:**
-    - Fix transition holes on `voxel` mode
-    - Improved mesh scaling
+    - Improved scheduling of loaded tiles
   - **On hold:**
+    - Improved mesh scaling (possibly using vertex clustering?)
+    - Sync config between server and client for better multiplayer support
+    - Improved config GUI
     - Populators in rough generators
     - Rough generators for more world types
     - Handle non-solid blocks correctly
     - Compatibility rendering mode
-    - Support for Optifine shaders
+    - Improved support for OptiFine shaders
 - [BuildTheEarth/Terra++](https://github.com/BuildTheEarth/terraplusplus)
   - **In progress:**
     - Generate high-resolution global elevation datasets
   - **On hold:**
+    - Generate simplified OpenStreetMap data tiles for use at low zoom levels
     - Make `BVH<>` support arbitrary bounding polygons
 
 ## On Hold

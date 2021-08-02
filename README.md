@@ -7,12 +7,11 @@
 ## In progress
 - [FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo)
   - **Testing:**
-      - Fix transition holes on `voxel` mode
-  - **In progress:**
     - Improved scheduling of loaded tiles
-  - **On hold:**
-    - Improved mesh scaling (possibly using vertex clustering?)
+  - **In progress:**
+    - Improved mesh scaling
     - Sync config between server and client for better multiplayer support
+  - **On hold:**
     - Improved config GUI
     - Populators in rough generators
     - Rough generators for more world types

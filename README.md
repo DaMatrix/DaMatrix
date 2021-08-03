@@ -9,10 +9,10 @@
   - **Testing:**
     - Improved scheduling of loaded tiles
   - **In progress:**
-    - Improved mesh scaling
     - Sync config between server and client for better multiplayer support
   - **On hold:**
     - Improved config GUI
+    - Improved mesh scaling
     - Populators in rough generators
     - Rough generators for more world types
     - Handle non-solid blocks correctly

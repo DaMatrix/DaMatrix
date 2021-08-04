@@ -9,6 +9,7 @@
   - **Testing:**
     - Improved scheduling of loaded tiles
   - **In progress:**
+    - GPU frustum culling
     - Sync config between server and client for better multiplayer support
   - **On hold:**
     - Improved config GUI

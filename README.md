@@ -22,8 +22,8 @@
 - [BuildTheEarth/Terra++](https://github.com/BuildTheEarth/terraplusplus)
   - **In progress:**
     - Generate high-resolution global elevation datasets
-  - **On hold:**
     - Generate simplified OpenStreetMap data tiles for use at low zoom levels
+  - **On hold:**
     - Make `BVH<>` support arbitrary bounding polygons
 
 ## On Hold

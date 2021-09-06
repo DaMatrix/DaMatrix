@@ -7,9 +7,8 @@
 ## In progress
 - [FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo)
   - **Testing:**
-    - Improved scheduling of loaded tiles
   - **In progress:**
-    - GPU frustum culling
+    - Improved scheduling of loaded tiles
     - Sync config between server and client for better multiplayer support
   - **On hold:**
     - Improved config GUI

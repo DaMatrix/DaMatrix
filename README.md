@@ -8,10 +8,9 @@
 - [FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo)
   - **Testing:**
   - **In progress:**
-    - Improved scheduling of loaded tiles
     - Sync config between server and client for better multiplayer support
-  - **On hold:**
     - Improved config GUI
+  - **On hold:**
     - Improved mesh scaling
     - Populators in rough generators
     - Rough generators for more world types

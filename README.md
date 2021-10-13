@@ -2,14 +2,16 @@
 ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m787908862-2276b40426acf2ff58677e3f)
 ![Uptime Robot status](https://img.shields.io/uptimerobot/status/m787908862-2276b40426acf2ff58677e3f)
 [![patreon badge](https://img.shields.io/badge/dynamic/json?color=e64413&label=patreon&query=data.attributes.patron_count&suffix=%20patrons&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F727078)](https://www.patreon.com/DaPorkchop_)
-![Keybase BTC](https://img.shields.io/keybase/btc/DaPorkchop_)
+[![Keybase BTC](https://img.shields.io/keybase/btc/DaPorkchop_)](https://www.daporkchop.net/donate)
 
 ## In progress
 - [FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo)
   - **Testing:**
-  - **In progress:**
     - Sync config between server and client for better multiplayer support
-    - Improved config GUI
+  - **In progress:**
+    - Make terrain loading be able to utilize multiple cores better
+    - Congestion control for terrain loading (to prevent timeouts when the server loads terrain too fast on a slow connection)
+    - Better fog (?)
   - **On hold:**
     - Improved mesh scaling
     - Populators in rough generators

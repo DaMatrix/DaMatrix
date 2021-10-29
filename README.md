@@ -7,12 +7,10 @@
 ## In progress
 - [FarPlaneTwo](https://github.com/PorkStudios/FarPlaneTwo)
   - **Testing:**
-    - Sync config between server and client for better multiplayer support
   - **In progress:**
-    - Make terrain loading be able to utilize multiple cores better
-    - Congestion control for terrain loading (to prevent timeouts when the server loads terrain too fast on a slow connection)
-    - Better fog (?)
+    - Modularize and abstract everything in order to be able to support multiple game versions at once
   - **On hold:**
+    - Congestion control for terrain loading (to prevent timeouts when the server loads terrain too fast on a slow connection)
     - Improved mesh scaling
     - Populators in rough generators
     - Rough generators for more world types
